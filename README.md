@@ -108,6 +108,10 @@ Contributes to the development of new technologies in areas such as smart manufa
 > "*This new subject in Computational Science is a small breakthrough for Sourceduty and provides scientists with a new area of research.*"
 
 #
+
+![Breaking New Ground](https://github.com/user-attachments/assets/5bcd5e32-0470-46fa-bf9a-64936b946f46)
+
+#
 ### Related Links
 
 [Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
