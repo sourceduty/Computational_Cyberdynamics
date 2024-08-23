@@ -1,6 +1,6 @@
 ![Computational Cyberdynamics](https://github.com/user-attachments/assets/b33a1581-5731-43cd-b092-c12f62d960cc)
 
-> The emerging scientific concept that explores the interaction between cybernetic systems and dynamic computational processes.
+> An original emerging scientific concept that explores the interaction between cybernetic systems and dynamic computational processes.
 
 #
 
