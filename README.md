@@ -109,7 +109,7 @@ Contributes to the development of new technologies in areas such as smart manufa
 
 #
 
-![Breaking New Ground](https://github.com/user-attachments/assets/5bcd5e32-0470-46fa-bf9a-64936b946f46)
+![Breaking New Ground](https://github.com/user-attachments/assets/b29455ad-acf4-4a31-9a58-542c24303e01)
 
 #
 ### Related Links
