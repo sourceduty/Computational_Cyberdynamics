@@ -68,6 +68,8 @@ Normal computing systems may struggle to meet the demands of Computational Cyber
 
 > Alex: "*This is a new computational science subject and framework that was created by me for further scientific research.*"
 
+> "*This new subject in Computational Science is a small breakthrough for Sourceduty and provides scientists with a new area of research.*"
+
 #
 ### Related Links
 
