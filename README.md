@@ -22,7 +22,7 @@ In conclusion, Computational Cyberdynamics represents a new frontier in the deve
   - Cybernetics: Focus on communication and control in systems, both biological and artificial.
   - Dynamic Systems Theory: Study of how complex systems evolve over time and adapt to changing conditions.
   - Real-Time Adaptation: Ability to process data in real-time and modify behavior based on changing inputs.
-  - Autonomy: Development of systems that can operate independently and make decisions without human intervention.
+  - Automation: Development of systems that can operate independently and make decisions without human intervention.
   - Interdisciplinarity: Integration of concepts from computer science, engineering, biology, and cognitive science.
 
 2. Key Components
