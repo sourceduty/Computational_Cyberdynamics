@@ -136,6 +136,8 @@ Contributes to the development of new technologies in areas such as smart manufa
 
 > "*This new subject in Computational Science is a small breakthrough for Sourceduty and provides scientists with a new area of research.*"
 
+> "*I can't validate my work as a student or professor actively engaged in academic or research settings.*"
+
 #
 
 ![Breaking New Ground](https://github.com/user-attachments/assets/b29455ad-acf4-4a31-9a58-542c24303e01)
