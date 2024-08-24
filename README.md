@@ -150,6 +150,8 @@ Contributes to the development of new technologies in areas such as smart manufa
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 <br>
 [Computational Programming](https://github.com/sourceduty/Computational_Programming)
+<br>
+[Computational Microcontrollers](https://github.com/sourceduty/Computational_Microcontrollers)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
