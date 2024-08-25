@@ -143,6 +143,10 @@ Contributes to the development of new technologies in areas such as smart manufa
 ![Breaking New Ground](https://github.com/user-attachments/assets/b29455ad-acf4-4a31-9a58-542c24303e01)
 
 #
+
+![Computational Cyberdynamics](https://github.com/user-attachments/assets/8f123234-2840-4eb3-9dc8-dee9f670fa66)
+
+#
 ### Related Links
 
 [Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
