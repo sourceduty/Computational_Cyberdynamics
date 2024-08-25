@@ -46,7 +46,7 @@ To contribute to the validation of new scientific subjects, one typically needs 
 #
 ### Custom GPT
 
-[Computational Cyberdynamics]() was developed to explore the interaction between cybernetic systems and dynamic computational processes. It focuses on how digital systems, such as artificial intelligence and machine learning algorithms, can engage with physical systems in real time to create adaptive, self-regulating mechanisms. By merging concepts from cybernetics and dynamic systems theory, this custom GPT aims to develop advanced technologies capable of autonomously adapting to changing environments and complex stimuli.
+[Computational Cyberdynamics](https://chatgpt.com/g/g-GSul3Kjmb-computational-cyberdynamics) was developed to explore the interaction between cybernetic systems and dynamic computational processes. It focuses on how digital systems, such as artificial intelligence and machine learning algorithms, can engage with physical systems in real time to create adaptive, self-regulating mechanisms. By merging concepts from cybernetics and dynamic systems theory, this custom GPT aims to develop advanced technologies capable of autonomously adapting to changing environments and complex stimuli.
 
 The significance of this GPT lies in its potential to revolutionize the design and operation of intelligent systems. Unlike traditional cybernetic systems that rely on pre-programmed rules and feedback loops, Computational Cyberdynamics emphasizes the need for systems that can learn and evolve independently. This adaptability is crucial in a world characterized by rapid changes and unpredictable variables, making it particularly relevant for applications in robotics, autonomous vehicles, and smart infrastructure.
 
