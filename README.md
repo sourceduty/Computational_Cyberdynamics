@@ -180,6 +180,8 @@ Contributes to the development of new technologies in areas such as smart manufa
 [Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
 <br>
 [Computational Chronophysics](https://github.com/sourceduty/Computational_Chronophysics)
+<br>
+[Diagnostic Physics](https://github.com/sourceduty/Diagnostic_Physics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
